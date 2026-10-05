@@ -1,0 +1,16 @@
+#h1 {
+    text-align: center;
+    background-color: lightblue;
+    
+}
+
+#form {
+    text-align: center;
+}
+
+
+button {
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
